@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0; /*que llegue al final de los bordes de la pantalla*/
+  font-family: Georgia, sans-serif;
+  background-color: aliceblue;
+  color: rgb(1, 111, 255);
+}
+.titulo h1 {
+  font-size: 60px;
+  text-align: center;
+  color: #015fbf; 
+  font-family: 'Playfair Display', serif;
+}
+.cuerpo {
+  margin: 20px auto 40px auto; 
+  padding: 0 20px;
+  font-size: 1.1em;
+  border-left: 5px solid #015fbf; 
+  padding-left: 25px;
+}
+
+
+.portada {
+  margin: 20px auto;
+  padding: 5px;
+  width: 500px;
+}
+/*texto general portada*/
+#cuerpo {
+	font-size: 20px;
+	text-align: center;
+}
+/* Título portada */
+#titulo {
+  font-size: 40px;
+  text-transform: uppercase;
+  text-align: center;
+}
